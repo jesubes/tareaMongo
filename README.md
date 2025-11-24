@@ -40,6 +40,6 @@ Para demostrar la aplicación del filtrado, se ejecutó una consulta que busca t
 
 A continuación, se adjunta la captura de pantalla que muestra el filtro aplicado en MongoCompass y el resultado obtenido (la receta que cumple con la condición):
 
-\!\[Captura de Pantalla del Filtro en MongoCompass\](filtro\_mongodb.png)
+![Captura de Pantalla del Filtro en MongoCompass](filtro_mongodb.png)
 
 *Desarrollado para la clase de \[Base de Datos 2\].*
