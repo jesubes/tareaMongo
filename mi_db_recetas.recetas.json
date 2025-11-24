@@ -1,0 +1,42 @@
+[{
+  "_id": {
+    "$oid": "6924989eb4327f0fe1e38ae6"
+  },
+  "nombre": "Tarta de Manzana Clásica",
+  "tiempo_preparacion_minutos": 45,
+  "ingredientes_principales": [
+    "Manzana",
+    "Harina",
+    "Canela"
+  ],
+  "dificultad": "Media",
+  "es_vegetariana": true
+},
+{
+  "_id": {
+    "$oid": "6924989eb4327f0fe1e38ae7"
+  },
+  "nombre": "Lasaña Boloñesa",
+  "tiempo_preparacion_minutos": 120,
+  "ingredientes_principales": [
+    "Carne Molida",
+    "Pasta",
+    "Queso"
+  ],
+  "dificultad": "Alta",
+  "es_vegetariana": false
+},
+{
+  "_id": {
+    "$oid": "6924989eb4327f0fe1e38ae8"
+  },
+  "nombre": "Ensalada César Simple",
+  "tiempo_preparacion_minutos": 15,
+  "ingredientes_principales": [
+    "Lechuga Romana",
+    "Pollo",
+    "Aderezo César"
+  ],
+  "dificultad": "Baja",
+  "es_vegetariana": false
+}]
